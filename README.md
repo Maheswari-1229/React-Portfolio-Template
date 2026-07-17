@@ -102,8 +102,7 @@ Contributions, suggestions, and feedback are welcome. Feel free to fork the repo
 
 For collaborations or opportunities, feel free to connect:
 
-- LinkedIn: www.linkedin.com/in/maheswari-vadivel
-- GitHub: https://github.com/yourusername
+- LinkedIn: www.linkedin.com/in/maheswari-vadivel06
 
 ## 📄 License
 
